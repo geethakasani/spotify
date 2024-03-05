@@ -13,3 +13,6 @@ The font used: DM Sans
 
 
 If you need more icons you can visit [flaticons.com](https://www.flaticon.com/)
+
+##my output
+![image](https://github.com/geethakasani/spotify/assets/160598661/47ad38b1-354b-4f26-9a0d-b192371ef53e)
